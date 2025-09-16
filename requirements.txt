@@ -1,9 +1,10 @@
 fastapi
 uvicorn[standard]
-pymongo
 motor
 python-dotenv
 pillow
 cryptography
 requests
+numpy
+pydantic
 python-multipart
